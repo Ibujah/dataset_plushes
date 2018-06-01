@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<TransformationMatrix type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    -7.3909988108431313e-01  2.1864816237866022e-01  6.3712192464989748e-01 -1.2304356696965479e-01
+	 2.6096658405824713e-01 -7.7903586951644499e-01  5.7008732314596033e-01  1.4562741047956087e+00 
+	 6.2098937815885735e-01  5.8761900504935316e-01  5.1872545447344709e-01  4.6179081095807577e+00 
+	 0. 0. 0. 1.</data></TransformationMatrix>
+<ProjectionMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    7.6774701428854041e+02 0. 4.1275976323752963e+02 0. 0.
+    7.5786196376239582e+02 2.9186515886361138e+02 0. 0. 0. 1. 0.</data></ProjectionMatrix>
+<width>800</width>
+<height>600</height>
+</opencv_storage>
